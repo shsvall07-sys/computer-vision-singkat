@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+hasil.jpg
+hasil-tepi.jpg
